@@ -41,7 +41,10 @@ It allows users to fetch random colors, save their favorite colors to a palette,
 4. Open http://localhost:3000 to view it in the browser.
 
 ##Project Structure
-src/pages/ColorApp.jsx — Main component managing color fetch, palette, and UI.
+
+<li data-start="1211" data-end="1293">
+<p data-start="1213" data-end="1293"><code data-start="1213" data-end="1237">src/pages/ColorApp.jsx</code> — Main component managing color fetch, palette, and UI.</p>
+</li>
 
 src/components/ColorGrid.jsx — Displays fetched colors with Save buttons.
 
