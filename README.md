@@ -77,3 +77,13 @@ It allows users to fetch random colors, save their favorite colors to a palette,
 <p data-start="1840" data-end="1877">Palette persists across page reloads.</p>
 </li>
 </ul>
+
+## Notes
+<ul data-start="1894" data-end="2062">
+<li data-start="1894" data-end="1973">
+<p data-start="1896" data-end="1973">Ensure you are logged in or have proper authentication tokens for API access.</p>
+</li>
+<li data-start="1974" data-end="2062">
+<p data-start="1976" data-end="2062">API endpoints and authentication logic are assumed to be set up as per the assignment.</p>
+</li>
+</ul>
