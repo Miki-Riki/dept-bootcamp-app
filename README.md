@@ -27,5 +27,5 @@ It allows users to fetch random colors, save their favorite colors to a palette,
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/<YOUR_GITHUB_USERNAME>/<REPO_NAME>.git
-   cd <REPO_NAME>
+   git clone https://github.com/Miki-Riki/dept-bootcamp-app.git
+   cd dept-bootcamp-app
