@@ -29,3 +29,11 @@ It allows users to fetch random colors, save their favorite colors to a palette,
    ```bash
    git clone https://github.com/Miki-Riki/dept-bootcamp-app.git
    cd dept-bootcamp-app
+
+2. Install dependencies:
+    ```bash
+    npm install
+
+3. Start the development server:
+   ```bash
+   npm start 
