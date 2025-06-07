@@ -61,3 +61,19 @@ It allows users to fetch random colors, save their favorite colors to a palette,
 <p data-start="1615" data-end="1647"><code data-start="1615" data-end="1630">src/index.css</code> — Global styles.</p>
 </li>
 </ul>
+
+## Usage
+<ul data-start="1664" data-end="1877">
+<li data-start="1664" data-end="1717">
+<p data-start="1666" data-end="1717">Click <strong data-start="1672" data-end="1688">Fetch Colors</strong> to load colors from the API.</p>
+</li>
+<li data-start="1718" data-end="1777">
+<p data-start="1720" data-end="1777">Click <strong data-start="1726" data-end="1734">Save</strong> below any color to add it to your palette.</p>
+</li>
+<li data-start="1778" data-end="1837">
+<p data-start="1780" data-end="1837">In <strong data-start="1783" data-end="1799">Your Palette</strong>, click the × button to remove colors.</p>
+</li>
+<li data-start="1838" data-end="1877">
+<p data-start="1840" data-end="1877">Palette persists across page reloads.</p>
+</li>
+</ul>
