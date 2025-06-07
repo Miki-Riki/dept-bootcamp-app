@@ -39,3 +39,16 @@ It allows users to fetch random colors, save their favorite colors to a palette,
    npm start
    
 4. Open http://localhost:3000 to view it in the browser.
+
+##Project Structure
+src/pages/ColorApp.jsx — Main component managing color fetch, palette, and UI.
+
+src/components/ColorGrid.jsx — Displays fetched colors with Save buttons.
+
+src/components/Palette.jsx — Shows saved palette colors with Remove buttons.
+
+src/api/client.js — Axios instance with authentication interceptors.
+
+src/utils/storage.js — Helper functions to save/load palette to/from localStorage.
+
+src/index.css — Global styles.
