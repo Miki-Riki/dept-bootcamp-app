@@ -71,7 +71,7 @@ It allows users to fetch random colors, save their favorite colors to a palette,
 <p data-start="1720" data-end="1777">Click <strong data-start="1726" data-end="1734">Save</strong> below any color to add it to your palette.</p>
 </li>
 <li data-start="1778" data-end="1837">
-<p data-start="1780" data-end="1837">In <strong data-start="1783" data-end="1799">Your Palette</strong>, click the <code>**×**</code> button to remove colors.</p>
+<p data-start="1780" data-end="1837">In <strong data-start="1783" data-end="1799">Your Palette</strong>, click the **<code>×</code>** button to remove colors.</p>
 </li>
 <li data-start="1838" data-end="1877">
 <p data-start="1840" data-end="1877">Palette persists across page reloads.</p>
