@@ -36,4 +36,6 @@ It allows users to fetch random colors, save their favorite colors to a palette,
 
 3. Start the development server:
    ```bash
-   npm start 
+   npm start
+   
+4. Open http://localhost:3000 to view it in the browser.
